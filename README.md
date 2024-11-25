@@ -43,7 +43,6 @@ First of all https://coinmarketcap.com/api/ you need a crypto api key if you are
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095118_Expo%20Go.jpg?raw=true" width="300"/>
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095120_Expo%20Go.jpg?raw=true" width="300"/>
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095123_Expo%20Go.jpg?raw=true" width="300"/>
-  
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095126_Expo%20Go.jpg?raw=true" width="300"/>
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095219_Expo%20Go.jpg?raw=true" width="300"/>
 <img src="https://github.com/AliArslan44/React-Native-Finance-App/blob/main/screenshots/Screenshot_20241125-095241_Expo%20Go.jpg?raw=true" width="300"/>
